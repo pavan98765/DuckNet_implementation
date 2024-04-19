@@ -1,6 +1,8 @@
 # Using DUCK-Net for polyp image segmentation
 
-### Evaluation code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12VoByOjFSEnD8du--1J34TG8-im1LomK?usp=sharing)
+### Evaluation code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RHch-IPnFT3JByqK-ulig8aMAgP4aKm9?usp=sharing)
+
+### Training Code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rx3Bx6_n6JpzkJ7YxO_XmqX221ylVJ1w?usp=sharing)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-cvc-colondb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-colondb?p=using-duck-net-for-polyp-image-segmentation-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-etis)](https://paperswithcode.com/sota/medical-image-segmentation-on-etis?p=using-duck-net-for-polyp-image-segmentation-1)
