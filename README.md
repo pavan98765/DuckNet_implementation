@@ -1,10 +1,18 @@
-# Using DUCK-Net for polyp image segmentation
+# DUCK-Net for Polyp Image Segmentation
 
-## This repo is an implementation for DUCK-Net
+This repository contains the implementation of DUCK-Net, which is designed for effective segmentation of polyp images in medical diagnostics.
 
-### Evaluation code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RHch-IPnFT3JByqK-ulig8aMAgP4aKm9?usp=sharing)
+## Quick Links
 
-### Training Code: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rx3Bx6_n6JpzkJ7YxO_XmqX221ylVJ1w?usp=sharing)
+- **Evaluation Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RHch-IPnFT3JByqK-ulig8aMAgP4aKm9?usp=sharing) - Use this notebook to evaluate the model using pre-trained weights.
+
+- **Training Code**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rx3Bx6_n6JpzkJ7YxO_XmqX221ylVJ1w?usp=sharing) - Access the training pipeline to train DUCK-Net on your dataset.
+
+## Notebooks
+
+- **Evaluation**: [Ducknet_evaluation.ipynb](./Ducknet_evaluation.ipynb) - Contains the code to evaluate the model performance using the pre-trained model.
+
+- **Training**: [Ducknet_training.ipynb](./Ducknet_training.ipynb) - Provides the steps required to train the model from scratch.
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-cvc-colondb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-colondb?p=using-duck-net-for-polyp-image-segmentation-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-etis)](https://paperswithcode.com/sota/medical-image-segmentation-on-etis?p=using-duck-net-for-polyp-image-segmentation-1)
