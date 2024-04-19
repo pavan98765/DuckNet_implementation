@@ -14,6 +14,8 @@ This repository contains the implementation of DUCK-Net, which is designed for e
 
 - **Training**: [Ducknet_training.ipynb](./Ducknet_training.ipynb) - Provides the steps required to train the model from scratch.
 
+## Paper
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-cvc-colondb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-colondb?p=using-duck-net-for-polyp-image-segmentation-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-etis)](https://paperswithcode.com/sota/medical-image-segmentation-on-etis?p=using-duck-net-for-polyp-image-segmentation-1)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/using-duck-net-for-polyp-image-segmentation-1/medical-image-segmentation-on-kvasir-seg)](https://paperswithcode.com/sota/medical-image-segmentation-on-kvasir-seg?p=using-duck-net-for-polyp-image-segmentation-1)
